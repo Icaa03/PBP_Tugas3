@@ -1,0 +1,12 @@
+{
+    "name": "MyJs",
+    "version": "20.17.0",
+    "description": "MyJs",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "icaa",
+    "license": "ISC"
+  }
+  
